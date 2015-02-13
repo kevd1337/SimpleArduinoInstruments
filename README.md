@@ -22,7 +22,7 @@ TODO
 
 See it in action: [Demo Video](http://youtu.be/uYeSUZJPnwk)
 
-Very simple theremin made with an arduino, the grove base shield, piezo busser, and ultrasonic sensor.
+Very simple theremin made with an arduino, the grove base shield, piezo busser, and an [ultrasonic sensor](https://github.com/Seeed-Studio/Grove_Ultrasonic_Ranger).
 
 ### Setup
 TODO
