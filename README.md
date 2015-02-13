@@ -1,8 +1,6 @@
 # SimpleArduinoInstruments
 Sketches for a few simple arduino powered instruments
 
-Work in progress, more details on configuration and usage to come
-
 # Instruments
 
 ## No Breath 3 Key Whistle
@@ -15,6 +13,9 @@ A very basic 3 key keyboard inspired by the whistle/recorder key fingerings on t
 
 No breath yet, working on a version you breathe into to activate the sound (like a digital ocarina or recorder).
 
+### Setup
+TODO
+
 ## Basic Ultrasonic Theremin
 
 ![Screenshot](https://raw.githubusercontent.com/kevd1337/SimpleArduinoInstruments/master/screenshots/Basic-Ultrasonic-Theremin.jpg)
@@ -23,3 +24,5 @@ See it in action: [Demo Video](http://youtu.be/uYeSUZJPnwk)
 
 Very simple theremin made with an arduino, the grove base shield, piezo busser, and ultrasonic sensor.
 
+### Setup
+TODO
