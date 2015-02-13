@@ -9,10 +9,17 @@ Work in progress, more details on configuration and usage to come
 
 ![Screenshot](https://raw.githubusercontent.com/kevd1337/SimpleArduinoInstruments/master/screenshots/No-Breath-3-Key%20Whistle.jpg)
 
-Demo: http://youtu.be/rIxGp7TTvP4
+See it in action: [Demo Video](http://youtu.be/rIxGp7TTvP4)
+
+A very basic 3 key keyboard inspired by the whistle/recorder key fingerings on the vintage Casio DH-100; powered by an arduino, grove base shield, some push buttons, and a piezo speaker.
+
+No breath yet, working on a version you breathe into to activate the sound (like a digital ocarina or recorder).
 
 ## Basic Ultrasonic Theremin
 
 ![Screenshot](https://raw.githubusercontent.com/kevd1337/SimpleArduinoInstruments/master/screenshots/Basic-Ultrasonic-Theremin.jpg)
 
-Demo: http://youtu.be/uYeSUZJPnwk
+See it in action: [Demo Video](http://youtu.be/uYeSUZJPnwk)
+
+Very simple theremin made with an arduino, the grove base shield, piezo busser, and ultrasonic sensor.
+
