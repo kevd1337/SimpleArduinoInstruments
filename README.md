@@ -7,7 +7,9 @@ Sketches for a few simple arduino powered instruments
 
 ![Screenshot](https://raw.githubusercontent.com/kevd1337/SimpleArduinoInstruments/master/screenshots/No-Breath-3-Key%20Whistle.jpg)
 
-See it in action: [Demo Video](http://youtu.be/rIxGp7TTvP4)
+See it in action: 
+* [Demo Video](http://youtu.be/rIxGp7TTvP4)
+* [Demo Song Using Instrument](https://angrybishops.bandcamp.com/track/springfield-within)
 
 A very basic 3 key keyboard inspired by the whistle/recorder key fingerings on the vintage Casio DH-100; powered by an arduino, grove base shield, some push buttons, and a piezo speaker.
 
